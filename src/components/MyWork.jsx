@@ -32,8 +32,6 @@ const MyWork = () => {
         }}
       >
         ✨ My Work
-        //Testing
-      
       </h2>
       <p style={{ fontSize: "1rem", marginBottom: "2rem" }}>
         A Messaging App-“Talk. Type. Tap. Swipe.”
